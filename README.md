@@ -1,4 +1,4 @@
-# This ia a Back-end "clone"  of social media app by using FastAPI
+# This is a Back-end "clone"  of a social media posts app by using FastAPI
 
 #### This API  has 4 routes
 
@@ -13,5 +13,5 @@
 
 ## 4) Vote route
 
- #### This route is about likes or vote system and this route contain code for upvote or back vote there is not logic about down vote
+ #### This route is about likes or vote system and this route contains code for upvotes or back vote there is no logic about down vote
 
