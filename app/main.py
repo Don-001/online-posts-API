@@ -25,4 +25,4 @@ app.include_router(vote.router)
 
 @app.get("/")
 def root():
-    return {"message": "Hello World! This is an API. It does not have a GUI but you can toy with it on postman or on any site because CORS is enabled. Have fun!"}
+    return {"message": "Hello World! This is an API. It does not have a GUI but you can toy with it on postman. Have fun!"}
